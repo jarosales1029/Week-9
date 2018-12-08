@@ -1,5 +1,4 @@
 # Week 9 - Honeypots
-Honeypots
 
 Deployed 3 honeypots (mhn-honeypot-1, mhn-honeypot-2, and mhn-honeypot-3) through GCPN.
 
