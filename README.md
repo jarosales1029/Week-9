@@ -1,5 +1,6 @@
 # Week-9
 Honeypots
+
 Deployed 3 honeypots (mhn-honeypot-1, mhn-honeypot-2, and mhn-honeypot-3) through GCPN.
 
 The issues I encountered included downloading the JSON files.  I couldn't seem to get the correct permissions to implement the commands correctly through cmd/ssh.  This was remedied by electing the SSH option from within the GCPN web browser.
